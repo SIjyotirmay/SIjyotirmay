@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jyotirmay Shreatha</h1>
-<h3 align="center">CSE Student | Full Stack Developer | AI/ML Enthusiast | Vision + Code = Magic</h3>
+<h3 align="center">Aspiring Machine Learning Developer | CSE Student | Passionate about AI and Impactful Innovation</h3>
+
 
 ## 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jyotirmay-shrestha-56077935a/)
