@@ -34,6 +34,8 @@
 
 ### 🛢️ Databases:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white)
+![Oracle SQL](https://img.shields.io/badge/Oracle%20SQL-F80000?style=plastic&logo=oracle&logoColor=white)
+
 
 ### 🔧 Tools:
 ![Git](https://img.shields.io/badge/Git-F05033?style=plastic&logo=git&logoColor=white)
@@ -53,10 +55,18 @@
 ---
 
 ### 🚀 Projects I'm Proud Of:
-- 🛰️ **Satellite Image Downscaling using CNNs**
-- 🤖 **Air Quality Prediction using ML and OpenCV**
-- 🧠 **Hand Gesture Recognition using Deep Learning**
-- 📈 **Time Series Forecasting of NO₂ Levels**
+- 🛰️ **Downscaling of NO₂-based Satellite Data / NO₂ Mapping**  
+  Leveraged CNNs and ML to generate high-resolution air quality maps from coarse satellite observations.
+
+- ✋ **Hand Gesture Recognition**  
+  Built a computer vision system using OpenCV and deep learning to classify real-time hand gestures.
+
+- 🧠 **Employee Performance Rating using Deep Learning**  
+  Developed a predictive model that evaluates employee performance based on multiple HR and productivity metrics.
+
+- 👓 **AI-Powered Smart Assistive System for the Visually Impaired**  
+  Created an assistive solution using AI and sensors for improved mobility and object detection.
+
 
 ---
 
