@@ -19,6 +19,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=PyTorch&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=plastic&logo=matplotlib&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=plastic&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-FF6D00?style=flat&logo=google&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask&logoColor=white)
 
 ### 💻 Programming:
