@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jyotirmay Shreatha</h1>
-<h3 align="center">Aspiring Machine Learning Developer | CSE Student | Passionate about AI and Impactful Innovation</h3>
-
+<h3 align="center">Aspiring Machine Learning Developer | MERN Stack Developer | CSE Student | Passionate about AI and Impactful Innovation</h3>
 
 ## 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jyotirmay-shrestha-56077935a/)
@@ -33,11 +32,15 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232a?style=plastic&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=plastic&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white)
+
+> ✅ Experienced in full-stack development with MERN (MongoDB, Express.js, React, Node.js)
 
 ### 🛢️ Databases:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white)
 ![Oracle SQL](https://img.shields.io/badge/Oracle%20SQL-F80000?style=plastic&logo=oracle&logoColor=white)
-
 
 ### 🔧 Tools:
 ![Git](https://img.shields.io/badge/Git-F05033?style=plastic&logo=git&logoColor=white)
@@ -69,7 +72,6 @@
 - 👓 **AI-Powered Smart Assistive System for the Visually Impaired**  
   Created an assistive solution using AI and sensors for improved mobility and object detection.
 
-
 ---
 
 ### ✍️ Quote for You
@@ -79,12 +81,9 @@
 
 [![](https://visitcount.itsvg.in/api?id=SIjyotirmay&label=Profile%20Views&color=6&icon=5)](https://visitcount.itsvg.in)
 
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SIjyotirmay&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <!-- Built with ❤️ by Jyotirmay Shreatha -->
-
-
 
 
