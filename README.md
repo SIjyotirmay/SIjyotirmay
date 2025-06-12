@@ -36,7 +36,6 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=plastic&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white)
 
-> ✅ Experienced in full-stack development with MERN (MongoDB, Express.js, React, Node.js)
 
 ### 🛢️ Databases:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white)
