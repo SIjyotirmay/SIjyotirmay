@@ -16,6 +16,7 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=plastic&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=PyTorch&logoColor=white)
+![torchvision](https://img.shields.io/badge/torchvision-vision--toolkit-orange?logo=pytorch&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=plastic&logo=matplotlib&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=plastic&logo=opencv&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-FF6D00?style=flat&logo=google&logoColor=white)
