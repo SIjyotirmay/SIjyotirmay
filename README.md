@@ -65,23 +65,7 @@
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=SIjyotirmay&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
----
-
-### 🚀 Projects I'm Proud Of:
-- 🛰️ **Downscaling of NO₂-based Satellite Data / NO₂ Mapping**  
-  Leveraged CNNs and ML to generate high-resolution air quality maps from coarse satellite observations.
-
-- ✋ **Hand Gesture Recognition**  
-  Built a computer vision system using OpenCV and deep learning to classify real-time hand gestures.
-
-- 🧠 **Employee Performance Rating using Deep Learning**  
-  Developed a predictive model that evaluates employee performance based on multiple HR and productivity metrics.
-
-- 👓 **AI-Powered Smart Assistive System for the Visually Impaired**  
-  Created an assistive solution using AI and sensors for improved mobility and object detection.
-
----
-
+ 
 ### ✍️ Quote for You
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
